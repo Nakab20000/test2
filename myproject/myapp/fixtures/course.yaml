@@ -1,0 +1,12 @@
+- model: myapp.subject
+  pk: 12345 
+  fields: 
+    Course_id: 12345
+    Course_name: dstoolbox
+    Teacher_name: Dowmean
+- model: myapp.subject
+  pk: 23456
+  fields: 
+    Course_id: 23456
+    Course_name: EDA
+    Teacher_name: Dowmean2
